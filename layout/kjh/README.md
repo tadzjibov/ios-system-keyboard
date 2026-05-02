@@ -19,7 +19,6 @@ kjh: Хакас
 Versions sorting for iPhone:
 
 * kjh-4-rows.yaml
-* kjh-4-rows-optimal.yaml
 * kjh-3-rows.yaml
 * kjh-3-rows-rus.yaml
 
@@ -101,10 +100,10 @@ keyNames:
 `kjh-4-rows.yaml`:
 
 ```
-    ҷ ӱ і   ң ӧ ғ 
-й ц у к е н г ш щ з х
-ф ы в а п р о л д ж э
-  я ч с м и т ь б ю
+э ҷ ӱ і ё ң ғ ӧ ю х
+й ц у к е н г ш щ з
+ф ы в а п р о л д ж
+  я ч с м и т ь б
 ```
 
 ### По частоте букв / Based on letter frequency
