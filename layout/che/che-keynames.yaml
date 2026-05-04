@@ -1,0 +1,15 @@
+space: пробел
+return: ввод
+return-alts:
+  search: Найти
+  go: Перейти
+  send: Отправить
+  join: Подкл.
+  route: Маршрут
+  next: Далее
+  continue: Продолжить
+  done: Готово
+emergency: SOS
+cancel: Отменить
+undo: Не применять
+redo: Повторить
