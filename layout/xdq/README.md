@@ -8,7 +8,7 @@
 
 ## Script Overview
 
-The modern Kaitag alphabet consists of 30 unique characters: 24 Russian letters plus 6 extended Cyrillic — **ӕ** /æ/, **ғ** /ʁ/, **ҡ** /q/, **ҳ** /x/, **һ** /h/, **ӏ** /ʔ/ — totalling 42 letters when digraphs for geminates and ejectives are counted.
+The modern Kaitag alphabet consists of 30 unique characters: 24 Russian letters plus 6 extended Cyrillic — **ә** /æ/, **ғ** /ʁ/, **ҡ** /q/, **ҳ** /x/, **һ** /h/, **ӏ** /ʔ/ — totalling 42 letters when digraphs for geminates and ejectives are counted.
 
 Nine Russian letters are absent from the core Kaitag alphabet: **ё щ ф ъ ы ь э ю я**. Six are replaced by extended Cyrillic characters; but any Russian letters appearing in loanwords remain accessible via long-press.
 
@@ -25,7 +25,7 @@ Two layout variants are available.
 The default variant. Six positions of excluded Russian letters are replaced by Kaitag-specific ones, placed roughly by frequency:
 
 ```text
-й ц у к е н г ш ӕ з х
+й ц у к е н г ш ә з х
 ӏ һ в а п р о л д ж ҳ
   я ч с м и т ҡ б ғ
 ```
@@ -39,7 +39,7 @@ Excluded Russian letters and stressed vowels are accessible via long-press:
 - `а` → `я` `а́`
 - `о` → `о́`
 - `ӏ` → `ъ`
-- `ӕ` → `ӕ́`
+- `ә` → `ә́`
 - `и` → `ы` `и́`
 - `һ` → `ь`
 
@@ -48,7 +48,7 @@ Excluded Russian letters and stressed vowels are accessible via long-press:
 An alternative for users who prefer not to long-press for Russian letters. Rows 2–4 are identical to the standard Russian ЙЦУКЕН; all Kaitag-specific characters appear in a dedicated top row:
 
 ```text
-' ! ? ғ ҡ ӏ һ ӕ ҳ — "
+' ! ? ғ ҡ ӏ һ ә ҳ — "
 й ц у к е н г ш щ з х
 ф ы в а п р о л д ж э
   я ч с м и т ь б ю
@@ -56,7 +56,7 @@ An alternative for users who prefer not to long-press for Russian letters. Rows 
 
 Stressed vowels are accessible via long-press:
 
-- `ӕ` → `ӕ́`
+- `ә` → `ә́`
 - `у` → `у́`
 - `е` → `е́` `ё`
 - `ы` → `ы́`
@@ -80,7 +80,7 @@ The **12-inch iPad** uses a full physical-keyboard-style layout with a number ro
 
 The layout follows ЙЦУКЕН with Kaitag substitutions in place. Displaced Russian letters are accessible via the `Option` (`⌥`) layer:
 
-- `⌥` `ӕ` = `щ`
+- `⌥` `ә` = `щ`
 - `⌥` `ӏ` = `ф`
 - `⌥` `һ` = `ы`
 - `⌥` `ҳ` = `э`
