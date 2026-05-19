@@ -2,9 +2,9 @@
 
 **Language**: Kaitag (_Хайдаҡӏла_)  
 **ISO 639-3**: `xdq`  
-**Script**: Cyrillic, v1.2 (May 2026) — [urssivar/script](https://github.com/urssivar/script)
+**Script**: Cyrillic, [v1.2 (May 2026)](https://github.com/urssivar/script)
 
-The modern Kaitag Cyrillic alphabet was developed in 2024 and updated in 2026. It consists of 24 letters from the Russian alphabet (excluding Ёё, Фф, Щщ, Ъъ, Ыы, Ьь, Ээ, Юю, Яя), 6 extended Cyrillic letters (Әә, Ғғ, Ҡҡ, Ҳҳ, Һһ, Ӏӏ), and 12 digraphs (doubled geminates and ejectives with the palochka). Extended notation covers stress marking, marginal and dialectal sounds, and loanword letters.
+The modern Kaitag Cyrillic alphabet was developed in 2024 and updated in 2026. It consists of 24 letters from the Russian alphabet (excluding **Ёё**, **Фф**, **Щщ**, **Ъъ**, **Ыы**, **Ьь**, **Ээ**, **Юю**, **Яя**), 6 extended Cyrillic letters (**Әә**, **Ғғ**, **Ҡҡ**, **Ҳҳ**, **Һһ**, **Ӏӏ**), and 12 digraphs (doubled geminates and ejectives with the palochka). Supplementary notation covers stress marking, marginal and dialectal sounds, and loanword letters.
 
 Input methods are based on the standard Russian ЙЦУКЕН layout. **Language switcher**: `ҡғҳ` (from _ҡҡуғадеҳ_ — "happiness")
 
@@ -12,7 +12,7 @@ Input methods are based on the standard Russian ЙЦУКЕН layout. **Language 
 
 ### 3-Row (`xdq-3-rows`)
 
-Replaces `щ`, `ф`, `ы`, `э`, `ь`, `ю` with `ӏ`, `ҡ`, `һ`, `ҳ`, `ә`, `ғ`, keeping `я`. More frequent Kaitag letters occupy more accessible keys.
+Replaces six of seven excluded Russian letters: `щ` → `ӏ`, `ф` → `ҡ`, `ы` → `һ`, `э` → `ҳ`, `ь` → `ә`, `ю` → `ғ`. `я` keeps its slot as the most frequent of the excluded set. Placement reflects character frequency.
 
 ```text
 й ц у к е н г ш ӏ з х
