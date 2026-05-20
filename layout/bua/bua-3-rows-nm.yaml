@@ -96,11 +96,11 @@ keyNames:
     search: Бэдэрхэ
     go: Шэлжэхэ
     send: Эльгээхэ
-    join: Холбогдохо
+    join: Нэмэжэ залгаха
     route: Зам
     next: Удаадахи
-    continue: Үргэжүүлхэ
+    continue: Үргэлжэлүүлхэ
     done: Бэлэн
   cancel: Болюулха
-  undo: Бусааха
-  redo: Һэргээхэ
+  undo: Хэрэглэхэгүй
+  redo: Дабтаха
