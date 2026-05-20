@@ -96,6 +96,7 @@ keyNames:
 ## Разработчик / Developer
 
 * Али Кужугет / Ali Kuzhuget
+* Булат Дамдинов / Bulat Damdinov
 
 ## Ссылки / References
 
