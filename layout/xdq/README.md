@@ -27,7 +27,7 @@ Accented vowels for stress marking and excluded Russian letters are accessible v
 - `ш` → `щ`
 - `ӏ` → `ъ`
 - `һ` → `ь`
-- `а` → `я` `а́`
+- `а` → `а́`
 - `п` → `ф`
 - `о` → `о́`
 - `и` → `ы` `и́`
