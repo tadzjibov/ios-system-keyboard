@@ -137,7 +137,7 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 .k.kon{background:#fff;outline:1.5px solid var(--accent);color:var(--accent)}
 .k.pressed{background:#a8b0b9!important;box-shadow:none!important}
 .k.sp.pressed{background:#8e969e!important}
-.lph{position:absolute;bottom:2px;right:3px;font-size:9px;line-height:1;color:#aaa;pointer-events:none}
+.lph{position:absolute;top:3px;right:4px;font-size:11px;font-weight:500;line-height:1;color:#4ea5f0;pointer-events:none}
 
 /* home indicator */
 .home-ind{height:34px;background:#cdd1d6;display:flex;align-items:center;justify-content:center;border-radius:0 0 42px 42px;flex-shrink:0}
@@ -417,7 +417,7 @@ function renderKbd(){
 
     if(item.type==='key'){
       const opts=lpO(item.act);
-      if(opts.length){const h=document.createElement('span');h.className='lph';h.textContent=opts.length===1?opts[0]:'+';k.appendChild(h)}
+      if(opts.length){const h=document.createElement('span');h.className='lph';h.textContent=opts.length===1?opts[0]:'•';k.appendChild(h)}
       k.addEventListener('click',e=>{e.stopPropagation();if(!lpPop&&!lpWasShown&&!opts.length)doKey(item.act,k);lpWasShown=false});
       if(opts.length){
         k.addEventListener('mousedown',e=>{e.preventDefault();startLp(e.clientX,e.clientY,k,item.act,opts)});
