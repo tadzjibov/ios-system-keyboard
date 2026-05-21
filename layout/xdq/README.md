@@ -4,7 +4,7 @@
 **ISO 639-3**: `xdq`  
 **Script**: Cyrillic, [v1.2 (May 2026)](https://github.com/urssivar/script)
 
-The modern Kaitag Cyrillic alphabet was developed in 2024 and updated in 2026. It consists of 24 letters from the Russian alphabet (excluding **Ёё**, **Фф**, **Щщ**, **Ъъ**, **Ыы**, **Ьь**, **Ээ**, **Юю**, **Яя**), 6 extended Cyrillic letters (**Әә**, **Ғғ**, **Ҡҡ**, **Ҳҳ**, **Һһ**, **Ӏӏ**), and 12 digraphs (doubled geminates and ejectives with the palochka). Supplementary notation covers stress marking, marginal and dialectal sounds, and loanword letters.
+The modern Kaitag Cyrillic alphabet was developed in 2024–2026. It consists of 24 letters from the Russian alphabet (excluding **Ёё**, **Фф**, **Щщ**, **Ъъ**, **Ыы**, **Ьь**, **Ээ**, **Юю**, **Яя**), 6 extended Cyrillic letters (**Әә**, **Ғғ**, **Ҡҡ**, **Ҳҳ**, **Һһ**, **Ӏӏ**), and 12 digraphs (doubled geminates and ejectives with the palochka). Supplementary notation covers stress marking, marginal and dialectal sounds, and loanword letters.
 
 Input methods are based on the standard Russian ЙЦУКЕН layout. **Language switcher**: `ҡғҳ` (from _ҡҡуғадеҳ_ — "happiness")
 
