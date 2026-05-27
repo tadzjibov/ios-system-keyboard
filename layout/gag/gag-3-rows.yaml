@@ -102,6 +102,6 @@ keyNames:
     continue: Devam et
     done: Bitti
   emergency: SOS
-  cancel: İptal
-  undo: Kullanma
+  cancel: Vazgeç
+  undo: Geri al
   redo: Tekrarla
