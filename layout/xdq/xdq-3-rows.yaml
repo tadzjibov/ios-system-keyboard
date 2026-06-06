@@ -1,7 +1,4 @@
-displayNames:
-  en: Kaitag
-  ru: Кайтагский
-  xdq: Хайдаҡӏла
+displayNames: !include xdq-display-names.yaml
 
 decimal: ','
 ABC: 'ҠҒҲ'
@@ -11,13 +8,13 @@ iOS:
   primary:
     layers:
       default: |
-        й ц у к е н г ш ҡ з х
-        ҳ ғ в а п р о л д ж ъ
-        \s{shift} я ч с м и т ь б ӏ \s{backspace}
+        й ц у к е н г ш ӏ з х
+        ҳ ҡ в а п р о л д ж ғ
+        \s{shift} ә ч с м и т һ б \s{backspace}
       shift: |
-        Й Ц У К Е Н Г Ш Ҡ З Х
-        Ҳ Ғ В А П Р О Л Д Ж Ъ
-        \s{shift} Я Ч С М И Т Ь Б Ӏ \s{backspace}
+        Й Ц У К Е Н Г Ш Ӏ З Х
+        Ҳ Ҡ В А П Р О Л Д Ж Ғ
+        \s{shift} Ә Ч С М И Т Һ Б \s{backspace}
       symbols-1: |
         1 2 3 4 5 6 7 8 9 0
         - / : ; ( ) ₽ & @ “
@@ -29,13 +26,13 @@ iOS:
   iPad-9in:
     layers:
       default: |
-        \s{spacer:0.3}   й ц у к е н г ш ҡ з х \s{spacer:1.7}
-        \s{spacer:0.6}   ҳ ғ в а п р о л д ж э \s{return:1.4}
-        \s{shift}        я ч с м и т ь б ӏ ъ   \s{shift:2.0}
+        \s{spacer:0.3}   й ц у к е н г ш ӏ з х \s{spacer:1.7}
+        \s{spacer:0.6}   ҳ ҡ в а п р о л д ж ғ \s{return:1.4}
+        \s{shift}        ә ч с м и т һ б ю ъ я   \s{shift:2.0}
       shift: |
-        \s{spacer:0.3}   Й Ц У К Е Н Г Ш Ҡ З Х \s{spacer:1.7}
-        \s{spacer:0.6}   Ҳ Ғ В А П Р О Л Д Ж Э \s{return:1.4}
-        \s{shift}        Я Ч С М И Т Ь Б Ӏ Ъ   \s{shift:2.0}
+        \s{spacer:0.3}   Й Ц У К Е Н Г Ш Ӏ З Х \s{spacer:1.7}
+        \s{spacer:0.6}   Ҳ Ҡ В А П Р О Л Д Ж Ғ \s{return:1.4}
+        \s{shift}        Ә Ч С М И Т Һ Б Ю Ъ Я   \s{shift:2.0}
       alt: |
         \s{spacer:0.3}   1 2 3 4 5 6 7 8 9 0 — \s{backspace:1.7}
         \s{spacer:0.6}   @ # № ₽ ´ & * ( ) ‘ ” \s{return:1.4}
@@ -56,14 +53,14 @@ iOS:
     layers:
       default: |
         >                1 2 3 4 5 6 7 8 9 0 - = \s{backspace:1.5}
-        \s{tab:1.5}      й ц у к е н г ш ҡ з х ъ \s{return}
-        \s{caps:1.75}    ҳ ғ в а п р о л д ж э ё \s{return:0.75}
-        \s{shift:1.25} ] я ч с м и т ь б ӏ /     \s{shift:2.25}
+        \s{tab:1.5}      й ц у к е н г ш ӏ з х ъ \s{return}
+        \s{caps:1.75}    ҳ ҡ в а п р о л д ж ғ ё \s{return:0.75}
+        \s{shift:1.25} ] ә ч с м и т һ б ю ы я / \s{shift:1.25}
       shift: |
-        <                ! ” № % : , . ; ( ) _ + \s{backspace:1.5}
-        \s{tab:1.5}      Й Ц У К Е Н Г Ш Ҡ З Х Ъ \s{return}
-        \s{caps:1.75}    Ҳ Ғ В А П Р О Л Д Ж Э Ё \s{return:0.75}
-        \s{shift:1.25} [ Я Ч С М И Т Ь Б Ӏ ?     \s{shift:2.25}
+        <                ! “ № % : , . ; ( ) _ + \s{backspace:1.5}
+        \s{tab:1.5}      Й Ц У К Е Н Г Ш Ӏ З Х Ъ \s{return}
+        \s{caps:1.75}    Ҳ Ҡ В А П Р О Л Д Ж Ғ Ё \s{return:0.75}
+        \s{shift:1.25} [ Ә Ч С М И Т Һ Б Ю Ы Я ? \s{shift:1.25}
       alt: |
         `                1 2 3 4 5 6 7 8 9 0 < > \s{backspace:1.5}
         \s{tab:1.5}      [ ] { } # % ^ * + = \ | \s{return}
@@ -89,19 +86,4 @@ iOS:
 
 longpress: !include xdq-longpress.yaml
 
-keyNames:
-  space: Цӏябиҡ
-  return: Бате
-  return-alts:
-    search: Баркка
-    go: Беже
-    send: Беса
-    join: Буца
-    continue: Даим
-    done: Барил
-    next: Ьереғ
-    route: Ҳуне
-  emergency: SOS
-  cancel: Мабира
-  undo: Чер бяҡа
-  redo: Чер цабара
+keyNames: !include xdq-key-names.yaml

@@ -1,0 +1,15 @@
+space: Цӏәбиҡ
+return: Бате
+return-alts:
+  search: Баркка
+  go: Беже
+  send: Беса
+  join: Буца
+  continue: Даим
+  done: Барил
+  next: Һереғ
+  route: Ҳуне
+emergency: SOS
+cancel: Мабира
+undo: Чер бәҡа
+redo: Чер цабара
