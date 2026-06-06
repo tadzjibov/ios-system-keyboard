@@ -12,12 +12,12 @@ Input methods are based on the standard Russian ЙЦУКЕН layout. **Language 
 
 ### 3-Row (`xdq-3-rows`)
 
-Replaces six of seven excluded Russian letters: `щ` → `ӏ`, `ф` → `ҡ`, `ы` → `һ`, `э` → `ҳ`, `ь` → `ә`, `ю` → `ғ`. `я` keeps its slot as the most frequent of the excluded set. Placement reflects character frequency.
+Replaces six of seven excluded Russian letters: `щ` → `ӏ`, `ф` → `ҳ`, `ы` → `ҡ`, `э` → `ғ`, `я` → `ә`, `ь` → `һ`, and drops `ю`. Placement reflects character frequency.
 
 ```text
 й ц у к е н г ш ӏ з х
-ҡ һ в а п р о л д ж ҳ
-  я ч с м и т ә б ғ
+ҳ ҡ в а п р о л д ж ғ
+   ә ч с м и т һ б
 ```
 
 Accented vowels for stress marking and excluded Russian letters are accessible via long-press:
@@ -26,23 +26,25 @@ Accented vowels for stress marking and excluded Russian letters are accessible v
 - `е` → `э` `е́` `ё`
 - `ш` → `щ`
 - `ӏ` → `ъ`
-- `һ` → `ь`
-- `а` → `а́`
+- `а` → `я` `а́`
 - `п` → `ф`
 - `о` → `о́`
-- `и` → `ы` `и́`
 - `ә` → `ә́`
+- `и` → `ы` `и́`
+- `һ` → `ь`
 
 ### 4-Row (`xdq-4-rows`)
 
 Leaves the Russian ЙЦУКЕН intact and adds new keys above:
 
 ```text
-, ! ? ғ ҡ һ ӏ ә ҳ — .
+, ! ? ҳ ҡ ә һ ӏ ғ — .
 й ц у к е н г ш щ з х
 ф ы в а п р о л д ж э
   я ч с м и т ь б ю
 ```
+
+_The corner keys are `,` and `.` here; the canonical layout uses `'` and `"`, falling back to `,` and `.` on keyboards (like iOS) that lack them around the spacebar._
 
 Accented vowels are accessible via long-press:
 
@@ -60,20 +62,22 @@ Accented vowels are accessible via long-press:
 
 ### iPad
 
-The **9-inch iPad** adds `ю` and `ъ` as direct keys in the third row.
+The **9-inch iPad** adds `ю`, `ъ`, and `я` as direct keys in the third row.
 
-The **12-inch iPad** uses a full physical-keyboard-style layout with a number row. The third row is expanded to recover displaced Russian letters: `ы ь`.
+The **12-inch iPad** uses a full physical-keyboard-style layout with a number row. The third row is expanded to recover displaced Russian letters: `ю`, `ы`, and `я`.
 
 ## macOS
 
 Follows ЙЦУКЕН with Kaitag substitutions. Displaced Russian letters are accessible via `⌥`:
 
 - `⌥` `ӏ` = `щ`
-- `⌥` `ҡ` = `ф`
-- `⌥` `һ` = `ы`
-- `⌥` `ҳ` = `э`
-- `⌥` `ә` = `ь`
-- `⌥` `ғ` = `ю`
+- `⌥` `ҳ` = `ф`
+- `⌥` `ҡ` = `ы`
+- `⌥` `ғ` = `э`
+- `⌥` `ә` = `я`
+- `⌥` `һ` = `ь`
+
+`ю` remains a direct key in its native (`.`) slot.
 
 Common typographic symbols are in the `⌥` layer: `№ ~ © ® ° · § « » – — ™ ∞ µ ≈ ≠ ≤ ≥ ‹ › ‚ „`.
 
