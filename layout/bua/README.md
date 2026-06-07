@@ -14,19 +14,32 @@ displayNames:
   bua: Буряад
 ```
 
-## Buryat iOS
+## Раскладки / Layouts
 
-Versions sorting for iPhone:
+Две раскладки, каждая для iOS и macOS.
 
-* bua-3-rows.yaml (Mobile-optimized)
-* bua-3-rows-nm.yaml (New Mongolian-like)
+### 1. На основе русской / Russian-based (`bua-rus`)
 
-## Buryat macOS
+Полная русская раскладка ЙЦУКЕН без изменений — все русские буквы на своих местах.
+Бурятские `Ө Ү Һ` вызываются на похожих русских клавишах:
 
-Two variants available:
+* **iOS** — long-press: `у → ү`, `о → ө`, `х → һ`
+* **macOS** — Option (⌥): `⌥у → ү`, `⌥о → ө`, `⌥х → һ` (заглавные через `⌥⇧`)
 
-* **Buryat (Standard)**: Replaces `ЦФЩ` with `ҮҺӨ`. Original letters accessible via `Option`.
-* **Buryat (Mongolian)**: Follows the `nm` layout pattern (12-key rows).
+Файлы: `bua-rus-3-rows.yaml` (iOS), `bua-rus-macos.yaml` (macOS), `bua-rus-longpress.yaml`.
+
+### 2. На основе монгольской / Mongolian-based (`bua-mon`)
+
+Расположение букв повторяет национальную монгольскую раскладку
+(Windows KBDMON / стандарт MNS): `ө` на клавише `F`, `ү` на `O`, `е`/`щ` на `-`/`=`.
+Для бурятского добавлена `Һ`.
+
+* **macOS** — `Һ` на клавише `\`; цифровой ряд по монгольскому образцу: без `Shift` — пунктуация и `₽` (рубль вместо монгольского тугрика), цифры через `Shift`.
+* **iOS** — `Һ` в нижнем ряду между `Т` и `Ь`; `щ`/`ъ` на long-press (`ш → щ`, `ь → ъ`).
+
+Файлы: `bua-mon-3-rows.yaml` (iOS), `bua-mon-macos.yaml` (macOS), `bua-mon-longpress.yaml`.
+
+Источник монгольской раскладки: <https://learn.microsoft.com/globalization/keyboards/kbdmon>
 
 ## Details
 
@@ -78,19 +91,19 @@ Two variants available:
 ```yaml
 keyNames:
   space: Зай
-  return: Оруулха
+  return: Оруулга
   return-alts:
     search: Бэдэрхэ
     go: Шэлжэхэ
     send: Эльгээхэ
-    join: Холбогдохо
+    join: Оруулха
     route: Зам
     next: Удаадахи
-    continue: Үргэжүүлхэ
+    continue: Утадхаха
     done: Бэлэн
   cancel: Болюулха
-  undo: Бусааха
-  redo: Һэргээхэ
+  undo: Арсаха
+  redo: Дабтаха
 ```
 
 ## Разработчик / Developer
