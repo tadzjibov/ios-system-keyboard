@@ -1,7 +1,7 @@
 displayNames:
-  en: Buryat (Mongolian-based)
-  ru: Бурятский (монгольская)
-  bua: Буряад (монгол)
+  en: Buryat
+  ru: Бурятский
+  bua: Буряад
 
 decimal: ','
 ABC: 'ӨҮҺ'
@@ -87,7 +87,7 @@ iOS:
   deadKeys:
     alt: ['¯', '¨', '´']
 
-longpress: !include bua-mon-longpress.yaml
+longpress: !include bua-longpress.yaml
 
 keyNames:
   space: Зай
