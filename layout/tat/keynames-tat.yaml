@@ -7,7 +7,7 @@ return-alts:
   join: Тоташу
   route: Маршрут
   next: Алга
-  continue: Дәвам иту
+  continue: Дәвам итү
   done: Булды
 emergency: SOS
 cancel: Баш тарту

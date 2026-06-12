@@ -32,6 +32,6 @@ iOS:
   iPad-12in: !include tat-3-rows.yaml#iOS#iPad-12in
   deadKeys: !include tat-3-rows.yaml#iOS#deadKeys
 
-longpress: !include tat-3-rows-longpress.yaml
+longpress: !include tat-3-rows-rus-longpress.yaml
 
 keyNames: !include keynames-tat.yaml

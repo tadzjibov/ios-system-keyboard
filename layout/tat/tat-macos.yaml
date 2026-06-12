@@ -50,3 +50,5 @@ macOS:
   deadKeys:
     alt: []
     alt+caps: []
+
+longpress: !include tat-3-rows-rus-longpress.yaml
