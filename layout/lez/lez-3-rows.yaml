@@ -93,13 +93,13 @@ keyNames:
   space: Ара
   return: Кхьин
   return-alts:
-    search: Жагъурун /Къекъуьн
+    search: Жагъурун
     go: Фин
     send: Ракъурун 
     join: Кутун
     continue: Давамрун
     done: Гьазур я
-    next: Ахпа
+    next: Къведай
     route: Рехъ
   emergency: SOS
   cancel: Кьулухъ хтун
