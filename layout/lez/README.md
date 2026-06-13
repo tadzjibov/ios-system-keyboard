@@ -37,6 +37,6 @@ On **macOS** the letter `щ` is not present in the layout — hardware keyboards
 
 ## 🌍 Contact
  
-Authors: E. Eskendarov, R. Gamidov, A. Magamedov, K. Tadzjibov. 
+Authors: E. Eskendarov, R. Gamidov, A. Magomedov, K. Tadzjibov. 
 
 Prepared for the *Apple Keyboards for All* project.
