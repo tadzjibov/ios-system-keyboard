@@ -33,4 +33,10 @@ The layouts follow the repository's unified scheme and are compatible with platf
  
 ## 📝 Notes
  
-- On **macOS** the letter `щ` is not present in the layout — hardware keyboards have no long-press. Switch to the Russian layout if you type Russian loanwords often.
+On **macOS** the letter `щ` is not present in the layout — hardware keyboards have no long-press. Switch to the Russian layout if you type Russian loanwords often.
+
+## 🌍 Contact
+ 
+Authors: E. Eskendarov, R. Gamidov, A. Magamedov, K. Tadzjibov. 
+
+Prepared for the *Apple Keyboards for All* project.
