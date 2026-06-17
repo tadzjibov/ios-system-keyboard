@@ -14,6 +14,7 @@ ENG_DATA = {
     "gld": ("Nanai", "Tungusic"),
     "kjh": ("Khakas", "Turkic"),
     "kom": ("Komi", "Uralic"),
+    "lez": ("Lezgi", "Caucasian"),
     "mhr": ("Mari", "Uralic"),
     "udm": ("Udmurt", "Uralic"),
     "oss": ("Ossetian", "Iranian"),
