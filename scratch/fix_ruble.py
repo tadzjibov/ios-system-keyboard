@@ -49,7 +49,7 @@ files = [
     'layout/chv/chv-ergonomic.yaml',
     'layout/chv/chv-3-rows.yaml',
     'layout/oss/oss-3-rows.yaml',
-    'layout/ykt/ykt-3-rows.yaml',
+    'layout/sah/sah-3-rows.yaml',
     'layout/ulc/ulc-3-rows.yaml',
     'layout/xal/xal-3-rows.yaml',
     'layout/alt/alt-3-rows.yaml',

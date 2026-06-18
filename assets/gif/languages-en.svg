@@ -166,90 +166,90 @@
 <text font-size="12" fill="#72243E" x="386" y="697" text-anchor="middle">Русский</text>
 <rect x="484" y="674" width="172" height="38" rx="4" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
 <text font-size="11" fill="#72243E" x="570" y="697" text-anchor="middle">3-rows, longpress, macOS</text>
-<!-- tat -->
+<!-- sah -->
 <rect x="24" y="716" width="76" height="38" rx="4" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#444441" x="62" y="740" text-anchor="middle">tat</text>
+<text font-size="14" font-weight="500" fill="#444441" x="62" y="740" text-anchor="middle">sah</text>
 <rect x="108" y="716" width="180" height="38" rx="4" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#444441" x="198" y="733" text-anchor="middle">Tatar</text>
+<text font-size="14" font-weight="500" fill="#444441" x="198" y="733" text-anchor="middle">Yakut</text>
 <text font-size="11" fill="#444441" x="198" y="747" text-anchor="middle">Turkic</text>
 <rect x="296" y="716" width="180" height="38" rx="4" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
-<text font-size="12" fill="#444441" x="386" y="739" text-anchor="middle">Татарча</text>
+<text font-size="12" fill="#444441" x="386" y="739" text-anchor="middle">Саха</text>
 <rect x="484" y="716" width="172" height="38" rx="4" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
 <text font-size="11" fill="#444441" x="570" y="733" text-anchor="middle">3-rows, 4-rows,</text>
 <text font-size="11" fill="#444441" x="570" y="747" text-anchor="middle">longpress, macOS</text>
-<!-- tle -->
+<!-- tat -->
 <rect x="24" y="758" width="76" height="38" rx="4" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#085041" x="62" y="782" text-anchor="middle">tle</text>
+<text font-size="14" font-weight="500" fill="#085041" x="62" y="782" text-anchor="middle">tat</text>
 <rect x="108" y="758" width="180" height="38" rx="4" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#085041" x="198" y="775" text-anchor="middle">Teleut</text>
+<text font-size="14" font-weight="500" fill="#085041" x="198" y="775" text-anchor="middle">Tatar</text>
 <text font-size="11" fill="#085041" x="198" y="789" text-anchor="middle">Turkic</text>
 <rect x="296" y="758" width="180" height="38" rx="4" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text font-size="12" fill="#085041" x="386" y="781" text-anchor="middle">Телеут</text>
+<text font-size="12" fill="#085041" x="386" y="781" text-anchor="middle">Татарча</text>
 <rect x="484" y="758" width="172" height="38" rx="4" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
 <text font-size="11" fill="#085041" x="570" y="775" text-anchor="middle">3-rows, 4-rows,</text>
 <text font-size="11" fill="#085041" x="570" y="789" text-anchor="middle">longpress, macOS</text>
-<!-- tyv -->
+<!-- tle -->
 <rect x="24" y="800" width="76" height="38" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#0C447C" x="62" y="824" text-anchor="middle">tyv</text>
+<text font-size="14" font-weight="500" fill="#0C447C" x="62" y="824" text-anchor="middle">tle</text>
 <rect x="108" y="800" width="180" height="38" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#0C447C" x="198" y="817" text-anchor="middle">Tuvan</text>
+<text font-size="14" font-weight="500" fill="#0C447C" x="198" y="817" text-anchor="middle">Teleut</text>
 <text font-size="11" fill="#0C447C" x="198" y="831" text-anchor="middle">Turkic</text>
 <rect x="296" y="800" width="180" height="38" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
-<text font-size="12" fill="#0C447C" x="386" y="823" text-anchor="middle">Тыва</text>
+<text font-size="12" fill="#0C447C" x="386" y="823" text-anchor="middle">Телеут</text>
 <rect x="484" y="800" width="172" height="38" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
 <text font-size="11" fill="#0C447C" x="570" y="817" text-anchor="middle">3-rows, 4-rows,</text>
 <text font-size="11" fill="#0C447C" x="570" y="831" text-anchor="middle">longpress, macOS</text>
-<!-- udm -->
+<!-- tyv -->
 <rect x="24" y="842" width="76" height="38" rx="4" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#3C3489" x="62" y="866" text-anchor="middle">udm</text>
+<text font-size="14" font-weight="500" fill="#3C3489" x="62" y="866" text-anchor="middle">tyv</text>
 <rect x="108" y="842" width="180" height="38" rx="4" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#3C3489" x="198" y="859" text-anchor="middle">Udmurt</text>
-<text font-size="11" fill="#3C3489" x="198" y="873" text-anchor="middle">Uralic</text>
+<text font-size="14" font-weight="500" fill="#3C3489" x="198" y="859" text-anchor="middle">Tuvan</text>
+<text font-size="11" fill="#3C3489" x="198" y="873" text-anchor="middle">Turkic</text>
 <rect x="296" y="842" width="180" height="38" rx="4" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
-<text font-size="12" fill="#3C3489" x="386" y="865" text-anchor="middle">Удмурт</text>
+<text font-size="12" fill="#3C3489" x="386" y="865" text-anchor="middle">Тыва</text>
 <rect x="484" y="842" width="172" height="38" rx="4" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
 <text font-size="11" fill="#3C3489" x="570" y="859" text-anchor="middle">3-rows, 4-rows,</text>
 <text font-size="11" fill="#3C3489" x="570" y="873" text-anchor="middle">longpress, macOS</text>
-<!-- ulc -->
+<!-- udm -->
 <rect x="24" y="884" width="76" height="38" rx="4" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#633806" x="62" y="908" text-anchor="middle">ulc</text>
+<text font-size="14" font-weight="500" fill="#633806" x="62" y="908" text-anchor="middle">udm</text>
 <rect x="108" y="884" width="180" height="38" rx="4" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#633806" x="198" y="901" text-anchor="middle">Ulch</text>
-<text font-size="11" fill="#633806" x="198" y="915" text-anchor="middle">Tungusic</text>
+<text font-size="14" font-weight="500" fill="#633806" x="198" y="901" text-anchor="middle">Udmurt</text>
+<text font-size="11" fill="#633806" x="198" y="915" text-anchor="middle">Uralic</text>
 <rect x="296" y="884" width="180" height="38" rx="4" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
-<text font-size="12" fill="#633806" x="386" y="907" text-anchor="middle">Нāн'и хэсэни</text>
+<text font-size="12" fill="#633806" x="386" y="907" text-anchor="middle">Удмурт</text>
 <rect x="484" y="884" width="172" height="38" rx="4" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
 <text font-size="11" fill="#633806" x="570" y="901" text-anchor="middle">3-rows, 4-rows,</text>
 <text font-size="11" fill="#633806" x="570" y="915" text-anchor="middle">longpress, macOS</text>
-<!-- xal -->
+<!-- ulc -->
 <rect x="24" y="926" width="76" height="38" rx="4" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#712B13" x="62" y="950" text-anchor="middle">xal</text>
+<text font-size="14" font-weight="500" fill="#712B13" x="62" y="950" text-anchor="middle">ulc</text>
 <rect x="108" y="926" width="180" height="38" rx="4" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#712B13" x="198" y="943" text-anchor="middle">Kalmyk</text>
-<text font-size="11" fill="#712B13" x="198" y="957" text-anchor="middle">Mongolic</text>
+<text font-size="14" font-weight="500" fill="#712B13" x="198" y="943" text-anchor="middle">Ulch</text>
+<text font-size="11" fill="#712B13" x="198" y="957" text-anchor="middle">Tungusic</text>
 <rect x="296" y="926" width="180" height="38" rx="4" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text font-size="12" fill="#712B13" x="386" y="949" text-anchor="middle">Хальмг</text>
+<text font-size="12" fill="#712B13" x="386" y="949" text-anchor="middle">Нāн'и хэсэни</text>
 <rect x="484" y="926" width="172" height="38" rx="4" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text font-size="11" fill="#712B13" x="570" y="949" text-anchor="middle">3-rows, longpress, macOS</text>
-<!-- xdq -->
+<text font-size="11" fill="#712B13" x="570" y="943" text-anchor="middle">3-rows, 4-rows,</text>
+<text font-size="11" fill="#712B13" x="570" y="957" text-anchor="middle">longpress, macOS</text>
+<!-- xal -->
 <rect x="24" y="968" width="76" height="38" rx="4" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#27500A" x="62" y="992" text-anchor="middle">xdq</text>
+<text font-size="14" font-weight="500" fill="#27500A" x="62" y="992" text-anchor="middle">xal</text>
 <rect x="108" y="968" width="180" height="38" rx="4" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#27500A" x="198" y="985" text-anchor="middle">Kaitag</text>
-<text font-size="11" fill="#27500A" x="198" y="999" text-anchor="middle">Caucasian</text>
+<text font-size="14" font-weight="500" fill="#27500A" x="198" y="985" text-anchor="middle">Kalmyk</text>
+<text font-size="11" fill="#27500A" x="198" y="999" text-anchor="middle">Mongolic</text>
 <rect x="296" y="968" width="180" height="38" rx="4" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<text font-size="12" fill="#27500A" x="386" y="991" text-anchor="middle">Хайдаҡӏла</text>
+<text font-size="12" fill="#27500A" x="386" y="991" text-anchor="middle">Хальмг</text>
 <rect x="484" y="968" width="172" height="38" rx="4" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<text font-size="11" fill="#27500A" x="570" y="985" text-anchor="middle">3-rows, 4-rows,</text>
-<text font-size="11" fill="#27500A" x="570" y="999" text-anchor="middle">longpress, macOS</text>
-<!-- ykt -->
+<text font-size="11" fill="#27500A" x="570" y="991" text-anchor="middle">3-rows, longpress, macOS</text>
+<!-- xdq -->
 <rect x="24" y="1010" width="76" height="38" rx="4" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#72243E" x="62" y="1034" text-anchor="middle">ykt</text>
+<text font-size="14" font-weight="500" fill="#72243E" x="62" y="1034" text-anchor="middle">xdq</text>
 <rect x="108" y="1010" width="180" height="38" rx="4" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
-<text font-size="14" font-weight="500" fill="#72243E" x="198" y="1027" text-anchor="middle">Yakut</text>
-<text font-size="11" fill="#72243E" x="198" y="1041" text-anchor="middle">Turkic</text>
+<text font-size="14" font-weight="500" fill="#72243E" x="198" y="1027" text-anchor="middle">Kaitag</text>
+<text font-size="11" fill="#72243E" x="198" y="1041" text-anchor="middle">Caucasian</text>
 <rect x="296" y="1010" width="180" height="38" rx="4" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
-<text font-size="12" fill="#72243E" x="386" y="1033" text-anchor="middle">Саха</text>
+<text font-size="12" fill="#72243E" x="386" y="1033" text-anchor="middle">Хайдаҡӏла</text>
 <rect x="484" y="1010" width="172" height="38" rx="4" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
 <text font-size="11" fill="#72243E" x="570" y="1027" text-anchor="middle">3-rows, 4-rows,</text>
 <text font-size="11" fill="#72243E" x="570" y="1041" text-anchor="middle">longpress, macOS</text>

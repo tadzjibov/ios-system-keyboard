@@ -25,7 +25,7 @@ ENG_DATA = {
     "ulc": ("Ulch", "Tungusic"),
     "xal": ("Kalmyk", "Mongolic"),
     "xdq": ("Kaitag", "Caucasian"),
-    "ykt": ("Yakut", "Turkic"),
+    "sah": ("Yakut", "Turkic"),
 }
 
 def generate_svg(lang_data, lp_map, output_path, lang='ru'):

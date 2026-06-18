@@ -1,7 +1,7 @@
 displayNames:
   en: Sakha
   ru: Якутский
-  ykt: Саха
+  sah: Саха
 
 decimal: ','
 ABC: 'САХ'
@@ -28,10 +28,10 @@ iOS:
         [ ] { } # % ^ * + =
         _ \ | ~ < > $ € ¥ •
         \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
-  iPad-9in: !include ykt-3-rows.yaml#iOS#iPad-9in
-  iPad-12in: !include ykt-3-rows.yaml#iOS#iPad-12in
-  deadKeys: !include ykt-3-rows.yaml#iOS#deadKeys
+  iPad-9in: !include sah-3-rows.yaml#iOS#iPad-9in
+  iPad-12in: !include sah-3-rows.yaml#iOS#iPad-12in
+  deadKeys: !include sah-3-rows.yaml#iOS#deadKeys
 
-longpress: !include ykt-longpress-short.yaml
+longpress: !include sah-longpress-short.yaml
 
-keyNames: !include ykt-3-rows.yaml#keyNames
+keyNames: !include sah-3-rows.yaml#keyNames

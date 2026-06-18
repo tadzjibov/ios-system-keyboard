@@ -1,7 +1,7 @@
 displayNames:
   en: Sakha
   ru: Якутский
-  ykt: Саха
+  sah: Саха
 
 decimal: ','
 ABC: 'САХ'
@@ -87,7 +87,7 @@ iOS:
   deadKeys:
     alt: ['¯', '¨', '´']
 
-longpress: !include ykt-longpress.yaml
+longpress: !include sah-longpress.yaml
 
 keyNames:
   space: Арыт
